@@ -1,0 +1,14 @@
+p {
+	font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+/* not only does it introduce classes, it also foreshadows the actual cascading
+part of CSS */
