@@ -1,0 +1,35 @@
+p {
+	font-family: Arial;
+}
+
+h1 {  
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.publish-time {
+  color: gray;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+/* demonstrate chaining selectors. We only apply the cursive font to the h2
+elements that have the destination class, not the h4 ones. Although it isn't the
+DRYest way to do it. */
