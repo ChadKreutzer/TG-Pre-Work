@@ -1,0 +1,42 @@
+p {
+	font-family: Arial;
+}
+
+h1 {  
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.publish-time {
+  color: gray;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+.description h5 {
+  color: teal;
+}
+
+h5 {
+  color: rebeccapurple;
+}
+
+/* More examples of the rule of specificity. I had to google it, but I had no
+idea rebecca purple was a thing: https://en.wikipedia.org/wiki/Eric_A._Meyer */
