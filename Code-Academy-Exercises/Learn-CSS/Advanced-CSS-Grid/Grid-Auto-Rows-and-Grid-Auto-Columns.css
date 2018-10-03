@@ -94,4 +94,5 @@ footer {
 }
 
 /* Well, I used the implicit grid, but I didn't use the auto rows or auto
-columns property. */
+columns property. This is an easier way to control how your elements are
+displayed */
