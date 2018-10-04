@@ -1,0 +1,1 @@
+/* And this is why const and let are awesome. Block scope FTW! */
