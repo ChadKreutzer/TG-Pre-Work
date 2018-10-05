@@ -1,0 +1,6 @@
+{
+  "presets": ["env"]
+}
+
+/* I went ahead and changed this to a json file just so it would look prettier
+and recognize the comment. */
