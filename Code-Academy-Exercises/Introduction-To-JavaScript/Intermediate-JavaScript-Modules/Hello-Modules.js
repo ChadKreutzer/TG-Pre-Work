@@ -1,0 +1,2 @@
+/* another advantage of modules is they can help you implement a sort of privacy
+by using external functions and only exporting the class that depends on them */
