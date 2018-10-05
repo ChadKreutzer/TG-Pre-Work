@@ -8,5 +8,5 @@ const newSum = newNumbers.reduce(function(accumulator, currentValue) {
 
 console.log(newSum);
 
-/* A little tedius with the console.logging but understandable. Array.reduce()
+/* A little tedious with the console.logging but understandable. Array.reduce()
 is probably the hardest of these to grok. But also super powerful */
