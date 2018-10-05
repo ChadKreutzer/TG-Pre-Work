@@ -1,0 +1,13 @@
+const randomNumbers = [375, 200, 3.14, 7, 13, 852];
+
+// Call .filter() on randomNumbers below
+const smallNumbers = randomNumbers.filter(number => number < 250);
+
+const favoriteWords = ['nostalgia', 'hyperbole', 'fervent', 'esoteric', 'serene'];
+
+
+// Call .filter() on favoriteWords below
+const longFavoriteWords = favoriteWords.filter(word => word.length > 7);
+
+/* making it easier to find what you need in an array without the loop--or at
+least without doing the loop yourself. */
