@@ -1,0 +1,1 @@
+/* And now to do the posting with fetch and promises */
