@@ -27,6 +27,8 @@ Your computer will use TCP to recognize when all the packets have arrived and al
 ## What code is rendered in the browser?
 
 Your browser actually renders HTML, XML, and images. But the render engine also parses the CSS file to allow it to apply styles to the rendered page.
+Additionally, your browser will likely have a JavaScript engine which will interpret the JS code, either adding to the HTML, XML, and images rendered (e.g. React)
+or adding functionality depending on what the code is.
 
 ## What is the server-side code’s main function?
 
